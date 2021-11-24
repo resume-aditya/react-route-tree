@@ -1,0 +1,1 @@
+A simple tree component with nodes acting as route link.
