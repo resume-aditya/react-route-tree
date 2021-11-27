@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   mode: 'production',
-  entry: './src/tree.js',
+  entry: './src/Tree.js',
   output: {
     path: path.resolve('lib'),
     filename: 'tree.js',

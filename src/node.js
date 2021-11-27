@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Tree from "./tree";
+import Tree from "./Tree";
 class Node extends React.Component {
   constructor(props) {
     super(props);
